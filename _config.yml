@@ -30,6 +30,7 @@ navbar-links:
   Home: ""
   About Me: "aboutme.html"
   Contact: "contact.html"
+  Projects: "projects.html" 
   
 # --- Footer options --- #
 
