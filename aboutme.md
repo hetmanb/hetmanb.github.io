@@ -4,13 +4,15 @@ title: About me
 subtitle: A little about me 
 ---
 
-My name is Ben Hetman. I'm currently a grad-student at the University of Lethbridge. 
+My name is Ben Hetman. I'm currently a MSc. grad-student at the University of Lethbridge. But if I think about it, that's probably the worst way to describe myself. More appropriately: 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I can (*read* have) re-watch any episode of [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld) pretty much at any time of day, and quote most of the iconic phrases from the episode as soon as I see which one it is. 
+- I like homemade things.. or at least home*brewed* things. From both angles of the science, and mostly the *drinking*, I love making homemade beer, wine and cider, not in any particular order. 
+- Mountains excite me, as does yummy food. Mountains and yummy food at the same time is best. 
+
 
 What else do you need?
 
-### my history
+### my cv
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In order to give my hand a try at writing something in Latex, I wrote something in Latex, using a template I found online (I'll try to post a link later when I definitely remember.) [Curriculum Vitae](https://www.dropbox.com/s/bc2qny5wapd4opn/benjamin.hetman.cv.pdf?dl=0) 
