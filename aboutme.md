@@ -15,4 +15,4 @@ What else do you need?
 
 ### my cv
 
-In order to give my hand a try at writing something in Latex, I wrote something in Latex, using a template I found online (I'll try to post a link later when I definitely remember.) [Curriculum Vitae](https://www.dropbox.com/s/bc2qny5wapd4opn/benjamin.hetman.cv.pdf?dl=0) 
+In order to give my hand a try at writing something in Latex, I wrote something in Latex, using a template I found online (I'll try to post a link later when I definitely remember.) [Curriculum Vitae](https://www.dropbox.com/s/bc2qny5wapd4opn/benjamin.hetman.cv.pdf?dl=1) 
