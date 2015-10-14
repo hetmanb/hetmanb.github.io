@@ -25,7 +25,7 @@ description: A collection of things highly scrutinized for their online suitabli
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/zoomies.png"
 
-# List of links in the navigation bar
+# List of links in the navigation bar!
 navbar-links:
   Home: ""
   About Me: "aboutme.html"
