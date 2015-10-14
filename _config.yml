@@ -30,7 +30,8 @@ navbar-links:
   Home: ""
   About Me: "aboutme.html"
   Contact: "contact.html"
-  Projects: "projects.html" 
+  Projects: "projects.html"
+  Photos: "_photos" 
   
 # --- Footer options --- #
 
@@ -89,6 +90,32 @@ defaults:
       path: "" # all files
     values:
       layout: "default"
+# Load plug in for photo gallery generator      
+gems:
+- jekyll-gallery-generator
+# Configuration for the Photo Gallery:      
+gallery:
+  # path to the gallery
+  dir: _photos
+  # title for gallery index
+  title: "Photo Gallery"
+  symlink: true
+  # title prefix for gallery page. title=title_prefix+gallery_name
+  title_prefix: "Photo: "
+  # field to control sorting of galleries for the index page
+  # (possible values are: title, date_time, best_image)
+  sort_field: "date_time"
+  # sizes for thumbnails
+  thumbnail_size:
+    x: 400
+    y: 400
+  # custom configuration for individual gallery
+  # best_image is image for the index page (defaults to last image)
+  galleries:
+    new_car:
+      best_image: IMG_0028.JPG
+    
+
 
 # Exclude these files from production site
 exclude:

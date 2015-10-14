@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben&#39;s Internet Emporium</title>
+    <description>A collection of things highly scrutinized for their online suitablility!!!</description>
+    <link>http://www.hetmanb.com</link>
+    <atom:link href="http://www.hetmanb.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>2015-09-05 My first post!</title>
+        <description>
+          
+          This is my first post, how exciting!
+
+I’ve been wanting to set up some sort of internet presence for a time now, and after reading the excellent tutorial by Dean Attali (posted here) I was encouraged enough to take the plunge!
+
+        </description>
+        <pubDate>Sat, 05 Sep 2015 00:00:00 +0000</pubDate>
+        <link>http://www.hetmanb.com/2015-09-05-first-post</link>
+        <guid isPermaLink="true">http://www.hetmanb.com/2015-09-05-first-post</guid>
+      </item>
+    
+  </channel>
+</rss>
