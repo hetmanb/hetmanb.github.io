@@ -115,7 +115,7 @@ gallery:
     new_car:
       best_image: IMG_0028.JPG
     
-
+include: ['_download']
 
 # Exclude these files from production sites
 exclude:
