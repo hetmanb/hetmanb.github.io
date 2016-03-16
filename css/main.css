@@ -7,7 +7,7 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
-  background: url(/img/dark_embroidery.png) black;
+  background: #FFF;
 }
 p {
   line-height: 1.5;
@@ -90,7 +90,7 @@ img::-moz-selection {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
+  background: url(/img/dark_embroidery.png) #F9F9F9;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -104,7 +104,7 @@ img::-moz-selection {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  color: #FFF;
 }
 
 .navbar-custom .navbar-brand:hover,
