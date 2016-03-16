@@ -1,10 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: A little about me
-published: true
+subtitle: A little about me 
 ---
-
 
 My name is Ben Hetman. I'm currently a MSc. grad-student at the University of Lethbridge. But if I think about it, that's probably the worst way to describe myself. More appropriately: 
 
@@ -14,8 +12,7 @@ My name is Ben Hetman. I'm currently a MSc. grad-student at the University of Le
 
 
 What else do you need?
-![about_me.jpg]({{site.baseurl}}/img/about_me.jpg)
 
 ### my cv
 
-In order to give my hand a try at writing something in Latex, I wrote something in Latex, using a template I found online (I'll try to post a link later when I definitely remember.) [Curriculum Vitae](https://www.dropbox.com/s/bc2qny5wapd4opn/benjamin.hetman.cv.pdf?dl=1)
+In order to give my hand a try at writing something in Latex, I wrote something in Latex, using a template I found online (I'll try to post a link later when I definitely remember.) [Curriculum Vitae](https://www.dropbox.com/s/bc2qny5wapd4opn/benjamin.hetman.cv.pdf?dl=1) 
